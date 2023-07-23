@@ -256,7 +256,7 @@
 /*** Category ***/
 .cat-item {
   display: block;
-  box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+  box-shadow: 0 0 45px rgba(212, 38, 38, 0.08);
   border: 1px solid transparent;
   transition: .5s;
 }
